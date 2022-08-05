@@ -6,7 +6,7 @@ public class PrimeirosPassos {
      // Codigo que escreve Hello Word
      System.out.println("Hello Word");
 
-     // Codigo que escreve a soma de dois numero
+     // Codigo que escreve a soma de dois numeros
      System.out.println(4 + 6);
 
     }
